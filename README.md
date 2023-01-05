@@ -11,4 +11,4 @@ Though each line is supposed to contain the film title, director, country, and y
 Missing data which was not surrounded by commas created problems when shifting each characteristic into a column. 
 Inconsistent writing of countries and director's names were also an issue. To clean up this data, I used the software OpenRefine. 
 With OpenRefine, I could also reconcile each film with their respective pages on Wikidata and OMDb, and with that I could add new columns 
-that were not present in the original data. It is the result of this process that is present here as "Fully_Recd_RefList.tsv".
+that were not present in the original data. It is the result of this process that is present here as "Reconciled_RefList.tsv".
