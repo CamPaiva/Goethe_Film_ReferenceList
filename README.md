@@ -1,4 +1,4 @@
-# Goethe_Film_ReferenceList
+# goethe-reference-list
 
 ## Context
 The film department of the Goethe University Frankfurt makes a [Reference List](https://www.uni-frankfurt.de/83387917/ReferenzlisteFilm_Nov2019.pdf)
